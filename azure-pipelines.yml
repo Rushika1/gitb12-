@@ -1,5 +1,4 @@
 # Starter pipeline
- task: Maven@3
  - inputs:
     mavenPomFile: 'pom.xml'
     publishJUnitResults: true
